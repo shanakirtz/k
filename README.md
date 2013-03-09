@@ -11,5 +11,9 @@ public class yes
   int y;
   Scanner scan = new Scanner(System.nextInt);
 
+  System.out.println("Enter a number");
+  System.out.println("Enter another number");
+  
+  System.out.prntln(x * y);
 }
 }
